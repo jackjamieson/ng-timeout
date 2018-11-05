@@ -1,4 +1,9 @@
 # ng-timeout
+**This is the version-agnostic project for https://github.com/jackjamieson/ng2-timeout**
+
+I will not be updating ng2-timeout although in my testing it was working up to Angular 7.
+This project is recreated in Angular's new library generation and will be much easier to update and maintain.
+
 Creates observables for user idle and timeout with manual interrupts.  Detects interrupts across browser tabs with [storage-emitter](https://github.com/alekseykulikov/storage-emitter).
 
 ## Installation
