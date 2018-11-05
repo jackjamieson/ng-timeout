@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "ng-timeout",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "ng-timeout",
+      "kebab-case"
+    ]
+  }
+}

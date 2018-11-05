@@ -1,0 +1,10 @@
+{
+  "name": "ng-timeout",
+  "description": "Creates observables for user idle and timeout with manual interrupts.  Detects interrupts across browser tabs with [storage-emitter](https://github.com/alekseykulikov/storage-emitter).",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0",
+    "storage-emitter": "^2.0.1"
+  }
+}
