@@ -11,7 +11,7 @@ Creates observables for user idle and timeout with manual interrupts.  Detects i
 To install this library, run:
 
 ```bash
-$ npm install ng-timeout --save
+$ npm install ng-timeout storage-emitter --save
 ```
 
 ## Consuming library
